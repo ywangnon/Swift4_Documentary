@@ -102,7 +102,12 @@ for tickMark in stride(from: 3, through: hours, by: hourInterval) {
 
 ## While Loops
 
+- 조건이 `true`가 될 때까지 반복
+- 반복횟수를 알 수 없을 때 사용
+
 ### while
+
+- 조건을 검사하고 시작
 
 ### Repeat-While
 
